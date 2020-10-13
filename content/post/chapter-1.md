@@ -3,7 +3,7 @@ date: 2020-10-13T12:11:08+00:00
 description: Mon coup de foudre pour le rock'n'roll
 featured_image: "/images/photo-1561758423-4a993d30afea.jpg"
 tags: []
-title: 'Le rock et moi '
+title: Le rock'n'roll
 
 ---
 Depuis toujours, je suis bercée par la musique que mon père écoute. Beaucoup de rock'n'roll, reggae, blues, soul, folk, ou encore de country envahissaient la maison. Je connais par cœur les morceaux de Léonard Cohen, Dolly Parton, Chris Rea, Barry White, en passant par le groupe Toto, ou encore Eric Clapton. Je danse en rythme sur la batterie de Phil Collins, mime la guitare d'Hendrix ou fais du playback sur la voix d'Annie Lennox. 

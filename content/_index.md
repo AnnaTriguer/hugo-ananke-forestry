@@ -6,4 +6,6 @@ description: 'Ici on parle musique, artistes et rock ! '
 ---
 Bienvenue sur "Une note de rock" !
 
-Ici, on parle musique, artistes et rock !
+Venez découvrir des histoires et des anecdotes sur vos artistes préférés. Et si vous souhaitez connaitre de nouveaux styles, artistes, ou encore instruments, alors vous êtes au bon endroit !
+
+N'hésitez pas à partager !

@@ -2,7 +2,6 @@
 date = 2020-10-23T15:36:48Z
 description = "Si on parlait du groupe de rock'n'roll le plus mythique du Royaume-Unis ? "
 disable_share = false
-draft = true
 featured_image = "/images/photo-1577436854853-6154b9e8a4c5.jpg"
 tags = []
 title = "Le mythique groupe Queen "
